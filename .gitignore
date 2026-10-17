@@ -1,0 +1,14 @@
+# Dev Tool input workspace (source .rpgs/.json + full ruleset) — not hosted,
+# and currently carries a local-only is_defeated workaround for an outdated
+# Dev Tool build. Never publish this folder as-is.
+/systems/
+
+# Full compiled system rules — not needed by the app for a resource pack
+# install (confirmed via request log: it only fetches systems.rpg and
+# <system>/resources.rpg). Excluding these avoids ever shipping the local
+# is_defeated workaround above.
+/5e2024/system.rpg
+/5e2024/system.composed.json
+
+# Local testing scratch folder.
+/_test_trimmed/

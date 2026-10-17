@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "id": "7be6536e-d350-4f70-b26d-f0730fb76313",
+      "name": "Gate Warden",
+      "path": "resources/background_gate_warden_sato.rpg",
+      "updated_at": "2026-10-17T17:08:39.618230"
+    },
+    {
+      "id": "fc80533d-1873-4dc0-9a34-d746eab60e9f",
+      "name": "Planar Philosopher",
+      "path": "resources/background_planar_philosopher_sato.rpg",
+      "updated_at": "2026-10-17T17:08:40.017321"
+    },
+    {
+      "id": "agent_of_order__sato_",
+      "name": "Agent of Order",
+      "path": "resources/feat_agent_of_order_sato.rpg",
+      "updated_at": "2026-02-07T10:30:48.627534"
+    },
+    {
+      "id": "baleful_scion__sato_",
+      "name": "Baleful Scion",
+      "path": "resources/feat_baleful_scion_sato.rpg",
+      "updated_at": "2026-02-07T10:30:48.627534"
+    },
+    {
+      "id": "cohort_of_chaos__sato_",
+      "name": "Cohort of Chaos",
+      "path": "resources/feat_cohort_of_chaos_sato.rpg",
+      "updated_at": "2026-05-18T22:07:01.618684"
+    },
+    {
+      "id": "outlands_envoy__sato_",
+      "name": "Outlands Envoy",
+      "path": "resources/feat_outlands_envoy_sato.rpg",
+      "updated_at": "2026-02-07T10:30:48.627534"
+    },
+    {
+      "id": "righteous_heritor__sato_",
+      "name": "Righteous Heritor",
+      "path": "resources/feat_righteous_heritor_sato.rpg",
+      "updated_at": "2026-02-07T10:30:48.627534"
+    },
+    {
+      "id": "scion_of_the_outer_planes__sato_",
+      "name": "Scion of the Outer Planes",
+      "path": "resources/feat_scion_of_the_outer_planes_sato.rpg",
+      "updated_at": "2026-05-18T22:07:01.618684"
+    }
+  ]
+}
