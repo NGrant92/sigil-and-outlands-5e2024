@@ -8,10 +8,10 @@ The official [rpg-companion-app-systems](https://github.com/blastervla/rpg-compa
 
 ## Installing
 
-In the RPG Companion App (Developer Mode on), add this as a custom repository:
+In the RPG Companion App, add this as a custom repository (no Developer Mode needed):
 
 ```
-<GitHub Pages URL goes here once published>
+https://ngrant92.github.io/sigil-and-outlands-5e2024/
 ```
 
 ## What's included
