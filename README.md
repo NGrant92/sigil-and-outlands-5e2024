@@ -46,7 +46,7 @@ The 2024 ruleset redesigned how backgrounds work (Ability Score Increase + a sin
 | --- | --- | --- |
 | Origin feat | Prose only — a wrapper feature named "Planar Infusion" whose text says *"You gain the Scion of the Outer Planes feat..."* | Scion of the Outer Planes embedded directly as the background's actual `Feat` object |
 | Extra flavor benefit | "Free, modest lodging and food in the community you grew up in" | Preserved — appended as a final sentence on the embedded feat's description |
-| Ability Score Increase | None (2014 backgrounds don't have this) | **Design call**: 3-point allocation among Int/Wis/Cha — ties to Scion's own spellcasting-ability choice, not arbitrary |
+| Ability Score Increase | None (2014 backgrounds don't have this) | **Design call**: 3-point allocation among Con/Wis/Cha — a hardier, more grounded spread than Planar Philosopher's, fitting a background about guarding a gate-town |
 | Equipment | Always: Ring of Keys to Unknown Locks, Blank Book, Bottle of Black Ink, Traveler's Clothes, plus choice of 1 from {Ink Pen, Quill} | Same 6 items, reframed as "pick 5 of 7" with a **design call**: added 50gp cash alternative, matching the documented 2024 PHB convention that every background's gear package is valued at 50gp |
 | Skills | Two "choose 1 from {Persuasion, Survival}" picks (nets both) | Simplified to two fixed grants: Persuasion + Survival |
 | Languages | 2× "Any" | Unchanged |
@@ -59,7 +59,7 @@ The 2024 ruleset redesigned how backgrounds work (Ability Score Increase + a sin
 | --- | --- | --- |
 | Origin feat | Prose only — wrapper feature named "Conviction": *"You gain the Scion of the Outer Planes feat. In addition, members of your organization provide you free, modest lodging and food..."* | Scion of the Outer Planes embedded directly as the actual `Feat` object |
 | Extra flavor benefit | "Free lodging/food at faction holdings" | Preserved — appended as a final sentence on the embedded feat's description |
-| Ability Score Increase | None | **Design call**: 3-point allocation among Int/Wis/Cha |
+| Ability Score Increase | None | **Design call**: 3-point allocation among Con/Int/Cha — scholarly but still rugged enough for an adventuring philosopher |
 | Equipment | Always: Portal Key, Manifesto of Guiding Philosophy, Clothes (Common) — no choice | Same 3 items, reframed as "pick 3 of 4" with a **design call**: added 50gp cash alternative |
 | Skills | Arcana (fixed) + 1 skill of your choice from the other 17 | Unchanged in substance, just reordered (Arcana listed first) |
 | Languages | 2× "Choose 1" | Unchanged |
